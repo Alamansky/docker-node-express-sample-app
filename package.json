@@ -1,0 +1,15 @@
+{
+  "name": "sample-node-app",
+  "version": "1.0.0",
+  "description": "Sample Node/Express App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Andrew Lamansky",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.16.4"
+  }
+}
